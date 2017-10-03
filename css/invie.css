@@ -393,7 +393,7 @@ input:focus, textarea:focus {
     text-align: center;
   }
   .titulo {
-    font-size: 25px;
+    font-size: 30px;
   }
   .title-a {
     font-size: 16px;
@@ -402,10 +402,10 @@ input:focus, textarea:focus {
 
   /* Guitarras */
   .guitarra img {
-    width: 100px;
+    width: 200px;
   }
   .title-b {
-    font-size: 25px;
+    font-size: 30px;
   }
   /* Guitarras */
 }
